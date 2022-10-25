@@ -19,3 +19,23 @@ New runs can be initiated by clicking on the "Again!" button.
 Happy playing! :) 
 
 https://xanjanax.github.io/Guess-the-Number-Game/ 
+
+## Preview 
+
+### Title Screen:
+<img src="Screenshot_Guess My Number Game(1).png"> 
+
+### When guess is too low: 
+<img src="Screenshot_Guess My Number Game(2).png"> 
+
+### When guess is too high: 
+<img src="Screenshot_Guess My Number Game(3).png"> 
+
+### When guess is correct: 
+<img src="Screenshot_Guess My Number Game(4).png"> 
+
+### High score retained for new run: 
+<img src="Screenshot_Guess My Number Game(5).png"> 
+
+### When score reaches zero: 
+<img src="Screenshot_Guess My Number Game(6).png"> 
